@@ -1,6 +1,7 @@
 # Cadet Inventory Management System (CIMS)
 
 Note: this is my first prototype for this CIMS project
+
 **First Prototype**: Achieve a full CRUD web app without security, login, or a user base.
 
 A full-stack inventory management system with Angular frontend and Spring Boot backend.
